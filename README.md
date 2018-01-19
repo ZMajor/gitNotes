@@ -1,8 +1,8 @@
 # gitNotes
-git学习笔记
 
 
-1. 安装配置
+
+### 安装配置
 	$ git config --global user.name "Your Name"
 	$ git config --global user.email "email@example.com"
 
@@ -11,7 +11,7 @@ git学习笔记
 
 
 
-2. 创建版本库
+### 创建版本库
 	初始化一个Git仓库：git init
 	提交：先add再commit, 
 	$ git add file1.txt
