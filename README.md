@@ -19,7 +19,7 @@
 	$ git commit -m "add 3 files."
 
 
-
+### 常用操作
 提交当前所有文件：$ add . 
 查看文件内容：cat readme.txt 
 查看修改状态：git status 
